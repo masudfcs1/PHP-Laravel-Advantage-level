@@ -25,6 +25,9 @@ session_start();
     print_r($_SESSION);
 
     // session destroy all value
+
+
+    //sdtwer
     session_destroy();
 
 
