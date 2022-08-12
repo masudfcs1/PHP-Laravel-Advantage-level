@@ -25,8 +25,6 @@ session_start();
     print_r($_SESSION);
 
     // session destroy all value
-
-    //gobal
     session_destroy();
 
 
